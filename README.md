@@ -1,0 +1,2 @@
+# Sociopedia
+MERN STACK PROJECT
